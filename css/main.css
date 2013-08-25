@@ -281,7 +281,7 @@ iframe {
 }
 
 .hero-text {
-	padding-top: 35%;
+	padding-top: 15%;
 }
 
 .hero-text h1 {
@@ -507,6 +507,10 @@ a:hover.back-to-work, a:active.back-to-work {
 
 .ch-img-4 { 
 	background-image: url(../img/4.jpg);
+}
+
+.ch-img-5 {
+	background-image: url(../img/5.jpg);
 }
 
 
